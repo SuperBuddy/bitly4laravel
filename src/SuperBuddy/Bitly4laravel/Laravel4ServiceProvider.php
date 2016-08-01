@@ -12,7 +12,7 @@ class Laravel4ServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        $this->package('jelovac/bitly4laravel');
+        $this->package('superbuddy/bitly4laravel');
     }
 
     /**

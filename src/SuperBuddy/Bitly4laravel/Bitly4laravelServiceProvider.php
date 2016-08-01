@@ -60,7 +60,7 @@ class Bitly4laravelServiceProvider extends ServiceProvider
     {
         $app = $this->app;
         $version = intval($app::VERSION);
-        $provider = sprintf('\Jelovac\Bitly4laravel\Laravel%dServiceProvider', $version);
+        $provider = sprintf('\SuperBuddy\Bitly4laravel\Laravel%dServiceProvider', $version);
         return new $provider($app);
     }
 
