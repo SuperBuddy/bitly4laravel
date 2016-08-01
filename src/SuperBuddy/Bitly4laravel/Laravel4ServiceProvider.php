@@ -1,4 +1,4 @@
-<?php namespace Jelovac\Bitly4laravel;
+<?php namespace SuperBuddy\Bitly4laravel;
 
 use \Illuminate\Support\ServiceProvider;
 

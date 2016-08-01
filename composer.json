@@ -1,18 +1,18 @@
 {
-    "name": "jelovac/bitly4laravel",
+    "name": "superbuddy/bitly4laravel",
     "description": "Provides a Laravel package to communicate with Bit.ly API",
     "license": "MIT",
     "require": {
         "php": ">=5.4",
         "illuminate/support": "~4|~5",
-        "guzzlehttp/guzzle": "~5"
+        "guzzlehttp/guzzle": "~6"
     },
     "require-dev": {
         "phpunit/phpunit": "4.4.*"
     },
     "autoload": {
         "psr-0": {
-            "Jelovac\\Bitly4laravel\\": "src/"
+            "SuperBuddy\\Bitly4laravel\\": "src/"
         }
     },
     "minimum-stability": "dev"

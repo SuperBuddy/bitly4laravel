@@ -1,4 +1,4 @@
-<?php namespace Jelovac\Bitly4laravel\Facades;
+<?php namespace SuperBuddy\Bitly4laravel\Facades;
 
 use \Illuminate\Support\Facades\Facade;
 

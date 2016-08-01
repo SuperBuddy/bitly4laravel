@@ -1,4 +1,4 @@
-<?php namespace Jelovac\Bitly4laravel;
+<?php namespace SuperBuddy\Bitly4laravel;
 
 class Bitly4laravel extends API implements BitlyInterface {
 

@@ -1,6 +1,6 @@
-<?php namespace Jelovac\Bitly4laravel\Tests;
+<?php namespace SuperBuddy\Bitly4laravel\Tests;
 
-use \Jelovac\Bitly4laravel\Model;
+use \SuperBuddy\Bitly4laravel\Model;
 use \PHPUnit_Framework_TestCase;
 
 class ModelTest extends PHPUnit_Framework_TestCase {
